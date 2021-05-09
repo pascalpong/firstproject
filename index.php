@@ -32,13 +32,13 @@ include 'classes/connect.php';
 
         <div class="container  ">
             
-            test test test
+            test test test this is another test's
  
 
             
             <div class="">
   <h1 style="color: #A0A0A0;font-size:8em;text-shadow:5px 5px 5px rgba(0,0,0,0.2);" class=" align-items-start">SPACIER</h1>
-               <p style="color: #A0A0A0;text-align: right;">BY PASCAL</p>
+               <p style="color: #A0A0A0;text-align: right;">BY PASCAL REAL</p>
  
             </div>
                           
